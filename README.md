@@ -109,7 +109,8 @@ END
 
 #### Flowchart (Optional)
 - Shows you the flow of the program.
-![Flowchart example](flowchart-example.png "flowchart example")
+<!-- ![Flowchart example](flowchart-example.png "flowchart example") -->
+![Flowchart example](flowchart-symbols.png "flowchart symbols")
 
 ---
 ## 5. Code
