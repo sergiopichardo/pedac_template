@@ -41,7 +41,16 @@ Short description of what we are trying to accomplish.
 
 
 ### Problem Domain
+- What formulas do I need to learn about?
 e.g. Array iteration, Accounting, factorization, linear algebra, etc.
+
+#### Definitions
+-
+
+#### Formulas
+-
+
+
 
 ### Diagram (Optional)
 - Helps you understand the problem.
@@ -53,6 +62,8 @@ e.g. Array iteration, Accounting, factorization, linear algebra, etc.
 Determine a list of all multiples of a set of factors up to a target value, then filter the list of multiples to the unique values. Finally, compute and return the sum of the unique multiples.
 
 
+
+
 ## 2. Examples/Test Cases
 - Validate Understanding of the Problem
 
@@ -62,13 +73,50 @@ e.g. Given an array of numbers, return only the even number
 
 ---
 ## 3. Data Structure
+- Data structures are the way we store and retrieve data
 - How we'll represent data that we'll work with when converting the input to output
-- e.g. array or object?
+- An `array` or an `object`?
+- A `string`? Can we solve this problem using `string concatenation`?
+- A `number`?
+  - Can we solve this problem using a running `total`?
+  - Do we need to `convert it` into a different `number`?
+- Do we need to convert the input into a different data type?
+---
 
+#### Potential Data Structures
+- Potential Data Structure 1
+- Potential Data Structure 2
+- Potential Data Structure 3
+- Potential Data Structure 4
+...
+- Potential Data Structure n
+
+
+#### Selected Data Structure
+-
 
 ---
 ## 4. Algorithm
-- Outline of the steps that will be needed to convert input to output
+- the steps that will be needed to solve the problem
+- Helper functions?
+
+#### Flowchart (Optional)
+- Shows you the flow of the program.
+<!-- ![Flowchart example](flowchart-example.png "flowchart example") -->
+![Flowchart example](flowchart-symbols.png "flowchart symbols")
+
+
+#### Potential Algorithms
+- Potential Algorithm 1
+- Potential Algorithm 2
+- Potential Algorithm 3
+- Potential Algorithm 4
+...
+- Potential Algorithm n
+
+##### Helper functions
+- Do I need any helper functions/subprocesses?
+
 
 #### pseudocode
 ```js
@@ -107,11 +155,19 @@ PRINT savedNumber
 END
 ```
 
-#### Flowchart (Optional)
-- Shows you the flow of the program.
-<!-- ![Flowchart example](flowchart-example.png "flowchart example") -->
-![Flowchart example](flowchart-symbols.png "flowchart symbols")
 
 ---
 ## 5. Code
 - Implement the algorithm with code
+
+
+
+#### Refactor
+- Can we make the code more concise and still readable
+- Do we need to change some variable or function names
+
+
+#### Further Exploration
+- What are other solutions people implemented?
+
+
