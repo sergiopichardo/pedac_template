@@ -65,7 +65,10 @@ Determine a list of all multiples of a set of factors up to a target value, then
 
 
 ## 2. Examples/Test Cases
-- Validate Understanding of the Problem
+- Validate Understanding of the Problem.
+- e.g. If the input is an empty array what do we return?
+- e.g. If the input is 0 what do we return?
+- e.g. Should we account for negative numbers?
 
 e.g. Given an array of numbers, return only the even number
      A: [1, 2, 3, 4, 5, 6] -> [2, 4, 6]
@@ -97,7 +100,8 @@ e.g. Given an array of numbers, return only the even number
 
 ---
 ## 4. Algorithm
-- the steps that will be needed to solve the problem
+The steps that will be needed to solve the problem
+- Are we mutating the original array or object?
 - Helper functions?
 
 #### Flowchart (Optional)
