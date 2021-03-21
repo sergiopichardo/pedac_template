@@ -104,6 +104,10 @@ The steps that will be needed to solve the problem
 - Are we mutating the original array or object?
 - Helper functions?
 
+##### Helper functions
+- Do I need any helper functions/subprocesses?
+
+
 #### Flowchart (Optional)
 - Shows you the flow of the program.
 <!-- ![Flowchart example](flowchart-example.png "flowchart example") -->
@@ -118,8 +122,6 @@ The steps that will be needed to solve the problem
 ...
 - Potential Algorithm n
 
-##### Helper functions
-- Do I need any helper functions/subprocesses?
 
 
 #### pseudocode
@@ -167,11 +169,13 @@ END
 
 
 #### Refactor
-- Can we make the code more concise and still readable
-- Do we need to change some variable or function names
+- Can we make the code more concise and still readable?
+- Do we need to change some variable or function names?
+- Should we divide functionality into other functions?
+- Are we mutating the state?
 
 
 #### Further Exploration
-- What are other solutions people implemented?
+- What are other ways we can solve this problem?
 
 
