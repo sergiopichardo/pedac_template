@@ -70,8 +70,25 @@ Determine a list of all multiples of a set of factors up to a target value, then
 - e.g. If the input is 0 what do we return?
 - e.g. Should we account for negative numbers?
 
-e.g. Given an array of numbers, return only the even number
-     A: [1, 2, 3, 4, 5, 6] -> [2, 4, 6]
+---
+EXAMPLES
+**Case 1**
+```
+Given two arrays with positive numbers,
+it should return one array with the products
+of the numbers at the same index.
+
+input:  [3, 5, 7], [9, 10, 11]
+output: [27, 50, 77]
+```
+---
+**Case 2**:
+```
+Given two empty arrays, return an empty array
+
+input:  [], []
+output: []
+```
 
 
 ---
