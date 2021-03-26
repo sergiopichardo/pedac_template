@@ -57,9 +57,6 @@ e.g. Array iteration, Accounting, factorization, linear algebra, etc.
 ![diagram example](blockchain-diagram.jpg "diagram example")
 
 
-### Mental Model
-**Example:**
-Determine a list of all multiples of a set of factors up to a target value, then filter the list of multiples to the unique values. Finally, compute and return the sum of the unique multiples.
 
 
 
@@ -89,6 +86,10 @@ Given two empty arrays, return an empty array
 input:  [], []
 output: []
 ```
+
+### Mental Model
+**Example:**
+Determine a list of all multiples of a set of factors up to a target value, then filter the list of multiples to the unique values. Finally, compute and return the sum of the unique multiples.
 
 
 ---
