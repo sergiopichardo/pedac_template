@@ -3,8 +3,6 @@
 
 
 ## 1. Problem
-Short description of what we are trying to accomplish.
-
 ### Input/s
 1.
 2.
