@@ -140,7 +140,7 @@ The steps that will be needed to solve the problem
 
 
 
-#### pseudocode
+#### Informal Pseudocode
 ```js
 1. Create an empty array called `multiples` that will contain the list of multiples
 2. Check whether the list of factors is empty. If there are no factors, set the list to `[3, 5]`
